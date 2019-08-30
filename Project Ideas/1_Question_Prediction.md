@@ -31,9 +31,10 @@
               and the likelihood of coming in the exam or from the same concept.
 
         - Depending on the dataset we will choose and apply our Machine Learning Algorithms on the
-        dataset using Clustering Algorithm and some optimization techniques.
+          dataset using Clustering Algorithm and some optimization techniques.
 
-        - After this a Graph Visualization showing the which year does the question came and what are the chances of coming to the same question or question from the same concept again. 
+        - After this a Graph Visualization showing the which year does the question came and what are the
+        chances of coming to the same question or question from the same concept again. 
     
 <b>Requirements</b>
 
