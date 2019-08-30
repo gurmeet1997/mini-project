@@ -64,3 +64,32 @@ Output and Result
 
 
 	- Problem sets consisting of questions with high probability of coming in the next exam.
+	
+<b> Project Timeline </b><br>
+
+	 Week 1
+		- Learning Python3 Object Oriented Programming
+		- Learning matplotlib, seaborn etc.
+	 Week 2
+		- Studying Basic Machine Learning Algorithms
+		- Applying Machine Learning Algorithms
+	 Week 3
+		- Starting with the Basics Techniques of NLP
+		- Learning Mathematical Foundations for NLP
+		- Learning Advanced Concepts in NLP
+	 Week 4
+		- Formulating our project idea and Decomposing them in smaller problem
+		- Designing Model for project
+		- Writting pseudocode for describing the idea
+	 Week 5
+		- Learning Data Wrangling
+		- Collecting Dataset
+		- Extracting Features from Dataset
+	 Week 6
+		- Making pre complete document showing the overview of the project ideas
+	 Week 7
+		- Starting Coding the Final formulation of idea showed in Document.
+		- Debugging and Testing
+		- Deploying Project in the Web.
+	 Week 8
+		- Final Presentation.
