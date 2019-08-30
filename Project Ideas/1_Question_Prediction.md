@@ -1,8 +1,8 @@
 # Question Prediction<br>
 ![IIT Question Icon](https://github.com/Ajay-2007/mini-project/blob/master/Project%20Ideas/images/question_prediction.jpg)
 
-Problem Definition</br>
-	Motivation
+<b>Problem Definition</b></br>
+	<b>Motivation</b>
 		- <p>When we were JEE Aspirants, we used to buy a book on past 10 year question paper, practice
 		paper etc. What we have seen so far is that they all contains the questions from last 10 years
 		or even last 15 years.</p>
@@ -37,7 +37,7 @@ Problem Definition</br>
 		- After this a Graph Visualization showing the which year does the question came and what are
 		the chances of coming the same question or question from the same concept again. 
     
-Requirements
+<b>Requirements</b>
 
 	Method
 		- Clustring
@@ -53,14 +53,14 @@ Requirements
 	Dataset
 		- Set of Questions MCQ/Subjective
 
-Algorithms and Mathematics Used
+<b>Algorithms and Mathematics Used</b>
 
 
 	- Recurrent Neural Network
 	- Applied Statistics
 	- Probability (Bayes Theorems etc)
 
-Output and Result
+<b>Output and Result</b>
 
 
 	- Problem sets consisting of questions with high probability of coming in the next exam.
